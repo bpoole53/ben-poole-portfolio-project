@@ -60,6 +60,7 @@ header {
 
 header h2 {
     background-color: var(--fbcolor);
+    color: var(--dark);
     font-size: 2rem;
     margin-right: 4rem;
     margin-bottom: 2rem;
