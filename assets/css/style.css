@@ -1,0 +1,52 @@
+.main-header {
+    background-color: rgb(216, 181, 115);
+    padding: 30px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+    flex-direction: row;
+    margin-right: 50px; 
+    padding: 20px;    
+}
+
+a {
+    color: teal;
+    text-decoration: none;
+    font-weight: bold; 
+    margin-left: 60px;
+    font-size: 25px;
+    border-bottom: 5px solid teal;
+}
+
+.background h1 {     
+    color: black;
+    font-size: 50px;
+    background-color: teal;
+}
+
+.header-background{
+    height: 500px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(https://github.com/garytalmes/css-mini-project/blob/main/Develop/assets/images/hero_image.png?raw=true);
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+.lorem h2 {
+    font-weight: bold;
+    font-size: 65px;
+    margin-bottom: 30px;
+}
+
+.lorem p {
+    font-size: 40px;
+    max-width: 1000px;
+}
