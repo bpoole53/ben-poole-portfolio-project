@@ -11,6 +11,7 @@
 body {
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    background-color: rgb(207, 229, 237);
 }
 
 div.navigation {
@@ -67,18 +68,50 @@ header h2 {
 }
 
 
-
-.content {
-    margin-top: 100px;
+main {
+    color: var(--dark);
 }
 
-.lorem h2 {
-    font-weight: bold;
-    font-size: 65px;
-    margin-bottom: 30px;
+#about_section {
+    color: var(--dark);
 }
 
-.lorem p {
-    font-size: 40px;
-    max-width: 1000px;
+.about {
+    width: 80`%;
+    margin-top: 6.5rem;
+    margin-left: 18rem;
+    margin-right: 8rem;    
 }
+
+.about h1 {
+    position: absolute;
+    top:20rem;
+    left: 7rem;
+    font-size: 3.5rem;
+}    
+
+.about h2 {
+    position: absolute;
+    top:25rem;
+    left: 12.1rem;
+    font-size: 3.5rem;
+}
+
+
+.about p {
+    border-left: .5rem solid var(--dark);
+    padding-left: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+#work_section {
+    color: var(--dark);
+}
+
+.work h1 {
+    position: absolute;
+    top: 40rem;
+    left: 8.3rem;
+    font-size: 3.5rem;    
+}
+
