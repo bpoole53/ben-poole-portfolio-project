@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-To see semantic tags and commenting in action and how it can help make html and CSS more accessible.
+To learn more about me and see adaptive styling and active links in action!
 
 ## Credits
 
