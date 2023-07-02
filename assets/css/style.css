@@ -151,8 +151,8 @@ main {
 }
 
 #mainworkimage {
-    height: 50%;
-    width: 65%;
+    height: 48%;
+    width: 65.2%;
     margin-left: 15%;
     margin-top: 5%;
     border: .2rem solid var(--fbcolor);
