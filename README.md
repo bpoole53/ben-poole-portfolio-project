@@ -2,9 +2,7 @@
 
 ## Description
 
-I was given source code that was primarily using div tags in the html file.  It was requested that they be replaced with 
-semantic HTML tags to make it easier to read/scan the HTML.  It also helps with SEO and is better for general accessibility.
-I was also asked to make semantic comments in the CSS file, which also helps with general accesibility.
+This is a portfolio I was asked to create with the knowledge I've gained over the last couple of weeks.  Please forgive me as I really only had 1 project to link to so I made that my main project link while the rest link to my github account.  I left some of the filler language as I wasn't sure how important it was that I put some kind of unique wording in.  The content adapts to the size of the screen.  Enjoy!
 
 ![Alt text](assets/images/BenPoolePortfolioSnip.png)
 
